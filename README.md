@@ -1,5 +1,5 @@
 # Axxa
-The GitHub Repository of a very *epic* bot known as **Magik.js**
+The GitHub Repository of a very *epic* bot known as **Axxa**
 
 > Axxa is a multi-purpose bot that focuses on mostly economy
 
