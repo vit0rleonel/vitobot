@@ -49,6 +49,6 @@ Feel free to dm me the problem or simply repost `with credits` you are only allo
 
 
 **CREDITS**
-all moderation system credits go to [@Kudos](https://github.com/Kudos-Official/Kudos-Bot) 
+all moderation utility and levelling system credits go to [@Kudos](https://github.com/Kudos-Official/Kudos-Bot) 
 
 if there's someone who sees there commands here dm me to give credits
