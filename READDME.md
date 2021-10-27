@@ -46,3 +46,7 @@ Check if the commands are correct, if you still dont know then shoot me a dm `Ev
 #### Know how to fix a problem?
 Feel free to dm me the problem or simply repost `with credits` you are only allowed to repost it in Basement devlopers here is the link [basement devs](https://top.gg/servers/678295162555858951)
 
+
+
+**CREDITS**
+all moderation system credits go to @Kudos
